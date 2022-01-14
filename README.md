@@ -1,6 +1,6 @@
 # Web-3.0-Blockchain-App-smart-contract
 
-This is a smart contract in ethereum network for the React web 3.0 blockchain app built on a client-side. The project was initially generated with a hardhat and deployed in alchemyapi.io
+This is a smart contract in ethereum network for the React web 3.0 blokchain app built on a client-side. The project was initially generated with a hardhat and deployed in alchemyapi.io
 
 ## Built With
 
